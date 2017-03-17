@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP2985LV
+D MICROPOWER 150mA Regulator 
+K REGUL POWER  SOT-23-5
+F regulator/LP2985.pdf
+$ENDCMP
+#
+$CMP NCP1400ASN50T1G
+D Boost (Step Up) Switching Regulator, Fixed, 800mV-5.5V In, 5V And 0.1A Out, TSOT-23-5
+K REGUL SWITCHING POWER  BOOST SOT-23-5
+$ENDCMP
+#
+#End Doc Library
